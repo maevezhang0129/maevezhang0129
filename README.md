@@ -29,7 +29,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 | Project | What it is | My role | Outcome |
 |---|---|---|---|
 | **[datum](https://github.com/maevezhang0129/datum-rag)** | Domain-specialized **RAG system** for Disaster Risk Reduction (UNDRR) — intent routing, hybrid retrieval, grounded citations | AI developer — pipeline & retrieval design | Grounded, source-cited answers over a curated DRR knowledge base *(case study; source private)* |
-| **cybersum** 🔒 | **LLM cyber-threat-intelligence reporting** — deterministic SQL aggregation + GPT-4o for dual-audience security reports | Designed & built the system + evaluation | **+1.15** G-Eval quality vs. raw-log baseline; **~99%** cost reduction; 100% automated *(private — available on request)* |
+| **cybersum(https://github.com/maevezhang0129/cybersum-cti.git)** | **LLM cyber-threat-intelligence reporting** — deterministic SQL aggregation + GPT-4o for dual-audience security reports | Designed & built the system + evaluation | **+1.15** G-Eval quality vs. raw-log baseline; **~99%** cost reduction; 100% automated *(private — available on request)* |
 | **[all-fluffy](https://github.com/maevezhang0129/all-fluffy-website)** | Shopify **e-commerce** brand site | Web developer — UI/UX, frontend, SEO | Live storefront with SEO-optimized content & improved page speed |
 | **[agent](https://github.com/maevezhang0129/agent)** | Personal **LLM agent** project (hackathon) | Solo build | 🚧 In progress |
 
