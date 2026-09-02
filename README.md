@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/siwei-zhang-337aa7265/"><img src="https://img.shields.io/badge/LinkedIn-Siwei%20Zhang-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:zhangsiwei729084343@gmail.com"><img src="https://img.shields.io/badge/Email-zhangsiwei729084343@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Stockholm-Sweden-2E7D32?style=flat&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Beijing-China-2E7D32?style=flat&logo=googlemaps&logoColor=white" alt="Location: Beijing, China">
 </p>
 
 ---
@@ -38,7 +38,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 
 ### 🧪 Experience & research
 
-- **AI Development & Data Science Intern — [UNDRR](https://www.undrr.org/)** (Bangkok, 2025–2026) · Built the
+- **AI Development & Data Science Intern — [UNDRR](https://www.undrr.org/)** (Geneva, Switzerland, 2025–2026) · Built the
   *datum* RAG system and *cybersum* security-analytics pipeline on Azure OpenAI + Azure Functions; multi-source
   API integrations, PostgreSQL schema design, end-to-end deployment.
 - **DeepSeek-7B fine-tuning for vulnerability detection — [Cybercampus Sverige](https://cybercampus.se)** ·
