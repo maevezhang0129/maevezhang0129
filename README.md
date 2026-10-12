@@ -29,7 +29,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 | Project | What it is | My role | Outcome |
 |---|---|---|---|
 | **[datum](https://github.com/maevezhang0129/datahub-rag)** | Domain-specialized **RAG system** for Disaster Risk Reduction (UNDRR) — intent routing, hybrid retrieval, grounded citations | AI developer — pipeline & retrieval design | Grounded, source-cited answers over a curated DRR knowledge base *(case study; source private)* |
-| **[cybersum](https://github.com/maevezhang0129/cybersum-cti.git)** | **LLM cyber-threat-intelligence reporting** — deterministic SQL aggregation + GPT-4o for dual-audience security reports | Designed & built the system + evaluation | **+1.15** G-Eval quality vs. raw-log baseline; **~99%** cost reduction; 100% automated *(private — available on request)* |
+| **[cybersum](https://github.com/maevezhang0129/cybersum-cti.git)** | **LLM cyber-threat-intelligence reporting** — deterministic SQL aggregation + GPT-4o for dual-audience security reports | Designed & built the system + evaluation | **+1.15** G-Eval quality vs. raw-log baseline; **~99%** lower running cost than an always-on VM; 100% automated |
 | **[claudio](https://github.com/maevezhang0129/claudio)** | Personal **AI radio station** — a markdown corpus of your listening habits drives LLM track selection, spoken DJ announcements, and casting to DLNA speakers | Solo build — prompt architecture, TypeScript service, PWA | Mixed music sources, self-firing schedule, spoken announcements; **53 offline assertions** run with zero API cost |
 | **[multi-currency-finance](https://github.com/maevezhang0129/multi-currency-finance)** | **Multi-currency expense tracker** — the ledger never leaves your browser; conversions freeze at the transaction month's rate so past spending never silently changes | Solo build — product scoping, frontend, data model, CI | **[Live on Vercel](https://multi-currency-finance.vercel.app)** · Next.js 16 · TypeScript strict · Drizzle + Supabase · **219 tests** in CI |
 | **[all-fluffy](https://github.com/maevezhang0129/all-fluffy-website)** | Shopify **e-commerce** brand site | Web developer — UI/UX, frontend, SEO | Live storefront with SEO-optimized content & improved page speed |
@@ -38,7 +38,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 
 ### 🧪 Experience & research
 
-- **AI Development & Data Science Intern — [UNDRR](https://www.undrr.org/)** (Geneva, Switzerland, 2025–2026) · Built the
+- **AI Development & Data Science Intern — [UNDRR](https://www.undrr.org/)** (2025–2026) · Built the
   *datum* RAG system and *cybersum* security-analytics pipeline on Azure OpenAI + Azure Functions; multi-source
   API integrations, PostgreSQL schema design, end-to-end deployment.
 - **DeepSeek-7B fine-tuning for vulnerability detection — [Cybercampus Sverige](https://cybercampus.se)** ·
