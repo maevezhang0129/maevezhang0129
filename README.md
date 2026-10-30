@@ -10,7 +10,7 @@
   <a href="https://siwei-zhang-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-9A4A1C?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
   <a href="https://www.linkedin.com/in/siwei-zhang-337aa7265/"><img src="https://img.shields.io/badge/LinkedIn-Siwei%20Zhang-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:zhangsiwei729084343@gmail.com"><img src="https://img.shields.io/badge/Email-zhangsiwei729084343@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Beijing-China-2E7D32?style=flat&logo=googlemaps&logoColor=white" alt="Location: Beijing, China">
+  <img src="https://img.shields.io/badge/Stockholm-Sweden-2E7D32?style=flat&logo=googlemaps&logoColor=white" alt="Location: Stockholm, Sweden">
 </p>
 
 ---
