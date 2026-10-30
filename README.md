@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://siwei-zhang-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-9A4A1C?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio website"></a>
   <a href="https://www.linkedin.com/in/siwei-zhang-337aa7265/"><img src="https://img.shields.io/badge/LinkedIn-Siwei%20Zhang-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:zhangsiwei729084343@gmail.com"><img src="https://img.shields.io/badge/Email-zhangsiwei729084343@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Beijing-China-2E7D32?style=flat&logo=googlemaps&logoColor=white" alt="Location: Beijing, China">
@@ -16,7 +17,7 @@
 
 ### 👩‍💻 About me
 
-MSc student in **Information Security** at Stockholm University, with hands-on experience across **AI systems,
+MSc in **Information Security** from Stockholm University (2026), with hands-on experience across **AI systems,
 software development, and data engineering**. I've designed and deployed **production RAG pipelines**, backend
 services, and data-driven applications in **Python + Azure**. My background in **linguistics** gives me a sharp
 intuition for language, NLP, and how to make LLMs reliable. Strong interest in **AI-powered systems** and
@@ -28,7 +29,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 
 | Project | What it is | My role | Outcome |
 |---|---|---|---|
-| **[datum](https://github.com/maevezhang0129/datahub-rag)** | Domain-specialized **RAG system** for Disaster Risk Reduction (UNDRR) — intent routing, hybrid retrieval, grounded citations | AI developer — pipeline & retrieval design | Grounded, source-cited answers over a curated DRR knowledge base *(case study; source private)* |
+| **[datahub-rag](https://github.com/maevezhang0129/datahub-rag)** | **Hybrid RAG retrieval** over disaster-risk-reduction literature — token-aware chunking, pgvector + full-text search, weighted RRF, evaluation harness; an open reimplementation of the architecture I built at UNDRR | Solo build — retrieval pipeline & evaluation | **recall@10 0.983** over 60 hand-written queries; runs end to end with no API keys |
 | **[cybersum](https://github.com/maevezhang0129/cybersum-cti.git)** | **LLM cyber-threat-intelligence reporting** — deterministic SQL aggregation + GPT-4o for dual-audience security reports | Designed & built the system + evaluation | **+1.15** G-Eval quality vs. raw-log baseline; **~99%** lower running cost than an always-on VM; 100% automated |
 | **[claudio](https://github.com/maevezhang0129/claudio)** | Personal **AI radio station** — a markdown corpus of your listening habits drives LLM track selection, spoken DJ announcements, and casting to DLNA speakers | Solo build — prompt architecture, TypeScript service, PWA | Mixed music sources, self-firing schedule, spoken announcements; **53 offline assertions** run with zero API cost |
 | **[multi-currency-finance](https://github.com/maevezhang0129/multi-currency-finance)** | **Multi-currency expense tracker** — the ledger never leaves your browser; conversions freeze at the transaction month's rate so past spending never silently changes | Solo build — product scoping, frontend, data model, CI | **[Live on Vercel](https://multi-currency-finance.vercel.app)** · Next.js 16 · TypeScript strict · Drizzle + Supabase · **219 tests** in CI |
@@ -39,7 +40,7 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 ### 🧪 Experience & research
 
 - **AI Development & Data Science Intern — [UNDRR](https://www.undrr.org/)** (2025–2026) · Built the
-  *datum* RAG system and *cybersum* security-analytics pipeline on Azure OpenAI + Azure Functions; multi-source
+  ingestion and retrieval layers of a RAG system (2.7M chunks) and the *cybersum* reporting pipeline on Azure OpenAI + Azure Functions; multi-source
   API integrations, PostgreSQL schema design, end-to-end deployment.
 - **DeepSeek-7B fine-tuning for vulnerability detection — [Cybercampus Sverige](https://cybercampus.se)** ·
   LoRA-based training pipeline on GPU clusters over structured (CWE/CVE) + unstructured threat intel; prototype
@@ -98,8 +99,8 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 
 ### 🎓 Education
 
-- **MSc, Information Security** — Stockholm University (2023–present)
-- **BA, Foreign Languages & Linguistics** — Beijing Language and Culture University (2019–2023)
+- **MSc, Information Security** — Stockholm University (2023–2026)
+- **BA in Russian** — Beijing Language and Culture University (2019–2023)
 
 ---
 
@@ -127,8 +128,9 @@ intuition for language, NLP, and how to make LLMs reliable. Strong interest in *
 
 ### 📫 Reach me
 
+- 🌐 Portfolio: [siwei-zhang-portfolio.vercel.app](https://siwei-zhang-portfolio.vercel.app)
 - 💼 LinkedIn: [siwei-zhang](https://www.linkedin.com/in/siwei-zhang-337aa7265/)
 - ✉️ Email: zhangsiwei729084343@gmail.com · sizh6305@student.su.se
-- 🌍 Languages: English (advanced) · Chinese (native) · Russian (advanced)
+- 🌍 Languages: English (advanced) · Chinese (native) · Russian (advanced) · Swedish (conversational / working proficiency)
 
 <sub>Some of my strongest work was built during an internship at <b>UNDRR</b> and can't be fully open-sourced for security reasons — those projects are presented as case studies, with code available on request in an interview context.</sub>
